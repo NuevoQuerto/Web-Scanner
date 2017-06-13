@@ -1,2 +1,2 @@
 # Web-Scanner
-Web Scanner Project Version 0.3
+Web Scanner Project Version 0.4
